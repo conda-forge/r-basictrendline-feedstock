@@ -5,11 +5,9 @@ Home: https://github.com/PhDMeiwp/basicTrendline
 
 Package license: GPL-3
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-basictrendline-feedstock/blob/master/LICENSE.txt)
 
 Summary: Plot, draw regression line and confidence interval, and show regression equation, R-square and P-value,  as simple as possible, by using different models ("line2P", "line3P", "log2P", "exp2P", "exp3P", "power2P", "power3P") built in the 'trendline()' function.
-
-
 
 Current build status
 ====================
