@@ -39,7 +39,7 @@ test:
 
 about:
   home: https://github.com/PhDMeiwp/basicTrendline
-  license: GPL-3
+  license: GPL-3.0-only
   summary: Plot, draw regression line and confidence interval, and show regression equation, R-square and P-value,  as simple as possible, by using different models ("line2P", "line3P", "log2P", "exp2P", "exp3P", "power2P", "power3P") built in the 'trendline()' function.
   license_family: GPL3
   license_file:
